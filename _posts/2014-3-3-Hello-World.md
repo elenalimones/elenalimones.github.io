@@ -1,7 +1,5 @@
----
-
 title: ¡Aprende PHP!
----
+
   A continuación, se podrán visualizar qué herramientas son necesarias para utilizar PHP en linux y algunas nociones básicas de sintaxis recopiladas por mí de distintas fuentes para el correcto uso del lenguaje de programación PHP:
 
 # PHP
